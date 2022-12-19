@@ -1,5 +1,21 @@
-.main-section {
-    border: 3px dashed purple;
+.intro-section {
+    border: 15px solid green;
     text-align: center;
-    font-size: 24px;
+    font-size: 20px;
+    background: darkseagreen
+}
+
+.main-section {
+    border: 10px solid rgb(64, 64, 228);
+    text-align: center;
+    font-size: 15px;
+    background: rgba(89, 141, 162, 0.678)
+}
+
+.photo {
+    border-style: solid;
+    align-items: center;
+    border: 10px solid rgba(35, 124, 65, 0.489);
+    width: 500px;
+    background: rgba(146, 164, 85, 0.678)
 }
